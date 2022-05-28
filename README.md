@@ -1,5 +1,7 @@
 ### Halo Everywang 👋
 
+# Jadi disini mungkin aku bakal share2 repo tugas sama proyekan mini aku.
+
 <!--
 **abimanyudrmwn/abimanyudrmwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
