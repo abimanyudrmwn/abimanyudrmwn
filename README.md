@@ -1,6 +1,6 @@
 ### Halo Everywang 👋
 
-#### Jadi disini mungkin aku bakal share2 repo tugas sama proyekan mini aku.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/abimanyudrmwn/github-readme-stats)
 
 <!--
 **abimanyudrmwn/abimanyudrmwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
