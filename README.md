@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/shaynendradika/shaynendradika/main/logo.png"/>
+  <img style="width:26rem; height:auto" src="https://res.cloudinary.com/belanga/image/upload/v1650919646/dermewen_dcw43t.png"/>
 </p>
 <h6 align="center"><u><b>Frontend Developer</b></u></h6>
 
