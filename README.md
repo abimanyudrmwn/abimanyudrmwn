@@ -7,6 +7,7 @@
 
 # Most Use Frameworks & Langs
 
+- HTML5
 - Javascript
 - JQuery
 - Vue
