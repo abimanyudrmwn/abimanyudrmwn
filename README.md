@@ -4,4 +4,14 @@
 <h6 align="center"><u><b>Frontend Developer</b></u></h6>
 
 ---
+
+# Most Use Frameworks & Langs
+
+- Javascript
+- JQuery
+- Vue
+- Tailwind
+- Nuxt
+
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abimanyudrmwn)](https://github.com/anuraghazra/github-readme-stats)
