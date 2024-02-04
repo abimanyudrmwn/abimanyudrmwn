@@ -6,12 +6,15 @@ Hi, I'm Abimanyu Darmawan—an avid tech enthusiast hooked on coding. I speciali
 ### Tech Stacks 💻
 -   JS Family: Javascript, (bit of) Typescript, Node.js
 -   Web Stuff: HTML, UI Frameworks
--   More languages: PHP, (bit of) Python, C# (Unity), Lua, Java, Pascal
+-   More languages: (bit of) Python, C# (Unity), Pascal
 - Frameworks: Express, Gin, Next.js, Vue, Nuxt and Astro
 - SQL Databases: MySQL, PostgreSQL
 - NoSQL Databases: Supabase
 -  Modern Architecture: Linux, Docker
-- SDLC Practices: Git, CI/CD, REST API, GraphQL, Unit Testing Chai/Mocha
+- SDLC Practices: Git, CI/CD, REST API, GraphQL, Chai
+
+### Community Works 🚀
+- Indonesia Project Zomboid Fullstack [Website](https://www.projectzomboid.id) (Nuxt)
 ---
 <h3 align="center">Connect with Me</h3>
 <p align="center">
