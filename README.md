@@ -11,7 +11,7 @@ Hi, I'm Abimanyu Darmawan—an avid tech enthusiast hooked on coding. I speciali
 - SQL Databases: MySQL, PostgreSQL
 - NoSQL Databases: Supabase
 -  Modern Architecture: Linux, Docker
-- SDLC Practices: Git, CI/CD, REST API, GraphQL, Chai
+- SDLC Practices: Git, CI/CD, REST API, GraphQL, Unit Testing Chai/Mocha
 ---
 <h3 align="center">Connect with Me</h3>
 <p align="center">
