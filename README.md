@@ -6,7 +6,7 @@ Hi, I'm Abimanyu Darmawan—an avid tech enthusiast hooked on coding. I speciali
 ### Tech Stacks 💻
 -   JS Family: Javascript, (bit of) Typescript, Node.js
 -   Web Stuff: HTML, UI Frameworks
--   More languages: (bit of) Python, C# (Unity), Pascal
+-   More languages: PHP, (bit of) Python, C# (Unity), Lua, Java, Pascal
 - Frameworks: Express, Gin, Next.js, Vue, Nuxt and Astro
 - SQL Databases: MySQL, PostgreSQL
 - NoSQL Databases: Supabase
